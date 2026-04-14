@@ -23,10 +23,13 @@
 ---
 
 ### 🏆 Certifications
+> **Verified by WSO2:** [View Official Transcript (CID-03794713)](https://certification.wso2.com/certificate/CID-03794713)
+
 - **WSO2 Certified Identity Server Developer - V7** (Feb 2026)
 - **WSO2 Certified API Manager Developer - V4** (Feb 2025 & Nov 2022)
 - **WSO2 Certified API Manager Expert - V4** (May 2023)
 - **WSO2 Certified Micro Integrator Developer - V4** (Nov 2022)
+- **WSO2 Certified API Manager Practitioner - V4** (Jul 2022)
 
 ---
 
